@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>Shambo Table</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>Shambo Table</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">32b2bf6581131300aadba4a47c598e1c</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-11-01 06:22:53</sys_created_on>
+        <sys_id>df248bb8db2123002bed560868961912</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Shambo Table</sys_name>
+        <sys_package display_value="Shambo" source="x_205203_shambo">cf2443b8db2123002bed560868961936</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Shambo">cf2443b8db2123002bed560868961936</sys_scope>
+        <sys_update_name>sys_wizard_answer_df248bb8db2123002bed560868961912</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-11-01 06:22:53</sys_updated_on>
+        <table/>
+        <target_url>x_205203_shambo_table.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>

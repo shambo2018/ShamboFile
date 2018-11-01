@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-11-01 06:22:53</sys_created_on>
+        <sys_id>5b248bb8db2123002bed560868961909</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_205203_shambo_table.x_205203_shambo.user</sys_name>
+        <sys_package display_value="Shambo" source="x_205203_shambo">cf2443b8db2123002bed560868961936</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Shambo">cf2443b8db2123002bed560868961936</sys_scope>
+        <sys_security_acl display_value="x_205203_shambo_table">07248bb8db2123002bed560868961907</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_5b248bb8db2123002bed560868961909</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-11-01 06:22:53</sys_updated_on>
+        <sys_user_role display_value="x_205203_shambo.user" name="x_205203_shambo.user">cb244bb8db2123002bed5608689619d9</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
